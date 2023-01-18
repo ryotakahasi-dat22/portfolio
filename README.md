@@ -1,4 +1,4 @@
-# portfolio1
+# portfolio
 
 - 高橋　涼
 - 連絡先 Twitter [@ryotakahasi_gp](https://twitter.com/ryotakahasi_gp) / gmail ryotakahasi.dat22@gmail.com
