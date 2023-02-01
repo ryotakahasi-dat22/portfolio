@@ -52,6 +52,7 @@
 - 開発環境：tyranoscrip
 - 開発期間：２週間
 - デジタルアーツ東京DATフェスタ2022　提出作品
+- [ノベルコレクション](https://novelgame.jp/)審査中
 
 ## 連絡先
 - Twitter [@ryotakahasi_gp](https://twitter.com/ryotakahasi_gp)
