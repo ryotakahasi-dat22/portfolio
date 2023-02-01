@@ -54,6 +54,19 @@
 - デジタルアーツ東京DATフェスタ2022　提出作品
 - [ノベルコレクション](https://novelgame.jp/)審査中
 
+### 会話中は隙だらけ
+
+![会話中は隙だらけ](kiaidame.png)
+
+- 相手が話に夢中になっている時にクリック連打で力を貯めよう！
+- 相手にばれるとゲームオーバーだ！
+
+- 開発環境：Unity
+- 開発期間：１週間
+- ９月に開発中止
+  - 一週間ゲームジャムの「ためる」に間に合わなかったため
+  - この時点で主に演出とコードの納得いくものが作れなかったため
+
 ## 連絡先
 - Twitter [@ryotakahasi_gp](https://twitter.com/ryotakahasi_gp)
 - gmail ryotakahasi.dat22@gmail.com
