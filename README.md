@@ -43,7 +43,7 @@
 
 ### 野菜男子
 
-![野菜男子](yasai.png)
+[<img src="yasai.png" alt="野菜男子" style="height: 360px">](https://novelgame.jp/games/show/7662)
 
 [野菜男子](https://novelgame.jp/games/show/7662)
 
