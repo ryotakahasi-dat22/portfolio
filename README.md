@@ -68,7 +68,7 @@
   - この時点で主に演出とコードの納得いくものが作れなかったため
 
 ### 探偵はウイルス
-[<img src="tannteibetuba-.png" alt="探偵はウイルス" style="height: 360px">]
+<img src="tannteibetuba-.png" alt="探偵はウイルス" style="height: 360px">
 
 うまく感染して事件を解決しよう！
 
@@ -77,7 +77,7 @@
 - 卒業制作
 
 ### いけません！お嬢様！
-[<img src="ikeozi.png" alt="いけません！お嬢様！" style="height: 360px">]
+<img src="ikeozi.png" alt="いけません！お嬢様！" style="height: 360px">
 
 お嬢様を学校まで無事に届けよう！
 
