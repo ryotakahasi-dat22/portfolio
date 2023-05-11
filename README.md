@@ -67,6 +67,24 @@
   - 一週間ゲームジャムの「ためる」に間に合わなかったため
   - この時点で主に演出とコードの納得いくものが作れなかったため
 
+### 探偵はウイルス
+[<img src="tannteibetuba-.png" alt="探偵はウイルス" style="height: 360px">]
+
+うまく感染して事件を解決しよう！
+
+- 開発環境：tyranoscrip
+- 開発期間：３週間～（開発途中）
+- 卒業制作
+
+### いけません！お嬢様！
+[<img src="ikeozi.png" alt="いけません！お嬢様！" style="height: 360px">]
+
+お嬢様を学校まで無事に届けよう！
+
+- 開発環境：Unity
+- 開発期間：１か月～（開発途中）
+- ゲームクリエイター甲子園２０２３
+
 ## 連絡先
 - Twitter [@ryotakahasi_gp](https://twitter.com/ryotakahasi_gp)
 - gmail ryotakahasi.dat22@gmail.com
