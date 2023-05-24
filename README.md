@@ -27,7 +27,7 @@
 ## 作品リスト
 
 ### ピンポン2022
-[<img src="s3.png" alt="ピンポン2022" style="height: 360px">](https://github.com/ryotakahasi-dat22/pinnponn)(画像)
+[<img src="gazou/s3.png" alt="ピンポン2022" style="height: 360px">](https://github.com/ryotakahasi-dat22/pinnponn)
 
 [コードと詳しい情報はこちらをクリック](https://github.com/ryotakahasi-dat22/pinnponn)
 
