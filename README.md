@@ -74,7 +74,7 @@
 
 - 開発環境：tyranoscrip
 - 開発期間：３週間～（開発途中）
-- 卒業制作
+- デジタルアーツ東京 卒業制作
 
 ### いけません！お嬢様！
 <img src="gazou/ikeozi.png" alt="いけません！お嬢様！" style="height: 360px">
@@ -83,7 +83,7 @@
 
 - 開発環境：Unity
 - 開発期間：１か月～（開発途中）
-- ゲームクリエイター甲子園２０２３
+- ゲームクリエイター甲子園２０２３ 参加作品
 
 ## 連絡先
 - Twitter [@ryotakahasi_gp](https://twitter.com/ryotakahasi_gp)
