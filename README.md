@@ -30,6 +30,7 @@
 [<img src="ramu.png" alt="シグマとラムダ" style="height: 360px">](https://unityroom.com/games/ramsigu)
 
 [シグマとラムダ](https://unityroom.com/games/ramsigu)
+[コードはこちらをクリック](https://github.com/ryotakahasi-dat22/u1wgj2212)
 
 遠い宇宙を目指し、ハイスコアを更新して競い合おう！
 
