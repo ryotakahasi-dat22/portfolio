@@ -29,7 +29,7 @@
 ### シグマとラムダ
 [<img src="ramu.png" alt="シグマとラムダ" style="height: 360px">](https://unityroom.com/games/ramsigu)
 
-[シグマとラムダ](https://unityroom.com/games/ramsigu)
+[シグマとラムダをプレイする方はこちらをクリック](https://unityroom.com/games/ramsigu)
 
 [コードはこちらをクリック](https://github.com/ryotakahasi-dat22/u1wgj2212)
 
@@ -45,7 +45,7 @@
 
 [<img src="yasai.png" alt="野菜男子" style="height: 360px">](https://novelgame.jp/games/show/7662)
 
-[野菜男子](https://novelgame.jp/games/show/7662)
+[野菜男子をプレイする方はこちらをクリック](https://novelgame.jp/games/show/7662)
 
 マウスで自分の運命を決めよう！
 
