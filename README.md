@@ -26,6 +26,18 @@
   - いけませんお嬢様を製作中
 ## 作品リスト
 
+### ピンポン2022
+[<img src="s3.png" alt="ピンポン2022" style="height: 360px">](https://github.com/ryotakahasi-dat22/pinnponn)
+
+[コードと詳しい情報はこちらをクリック](https://github.com/ryotakahasi-dat22/pinnponn)
+
+ボールを跳ね返して相手に勝とう！
+
+- 開発環境：Windows10 + Visual Studio 2022 + Visual Studio 2019
+- 開発期間：10日
+- デジタルアーツ東京夏課題　提出作品
+- 初の自分で考えたゲーム製作
+
 ### シグマとラムダ
 [<img src="ramu.png" alt="シグマとラムダ" style="height: 360px">](https://unityroom.com/games/ramsigu)
 
