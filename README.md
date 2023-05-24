@@ -39,7 +39,7 @@
 - 初の自分で考えたゲーム製作
 
 ### シグマとラムダ
-[<img src="ramu.png" alt="シグマとラムダ" style="height: 360px">](https://unityroom.com/games/ramsigu)
+[<img src="gazou/ramu.png" alt="シグマとラムダ" style="height: 360px">](https://unityroom.com/games/ramsigu)
 
 [シグマとラムダをプレイする方はこちらをクリック](https://unityroom.com/games/ramsigu)
 
@@ -55,7 +55,7 @@
 
 ### 野菜男子
 
-[<img src="yasai.png" alt="野菜男子" style="height: 360px">](https://novelgame.jp/games/show/7662)
+[<img src="gazou/yasai.png" alt="野菜男子" style="height: 360px">](https://novelgame.jp/games/show/7662)
 
 [野菜男子をプレイする方はこちらをクリック](https://novelgame.jp/games/show/7662)
 
@@ -68,7 +68,7 @@
 - デジタルアーツ東京DATフェスタ2022　提出作品
 
 ### 探偵はウイルス
-<img src="tannteibetuba-.png" alt="探偵はウイルス" style="height: 360px">
+<img src="gazou/tannteibetuba-.png" alt="探偵はウイルス" style="height: 360px">
 
 うまく感染して事件を解決しよう！
 
@@ -77,7 +77,7 @@
 - 卒業制作
 
 ### いけません！お嬢様！
-<img src="ikeozi.png" alt="いけません！お嬢様！" style="height: 360px">
+<img src="gazou/ikeozi.png" alt="いけません！お嬢様！" style="height: 360px">
 
 お嬢様を学校まで無事に届けよう！
 
