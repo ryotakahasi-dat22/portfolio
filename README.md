@@ -53,10 +53,6 @@
 - 開発人数：一人
 - ゲームクリエイター甲子園２０２３ 参加作品
 
-## 連絡先
-- Twitter [@ryotakahasi_gp](https://twitter.com/ryotakahasi_gp)
-- gmail ryotakahasi.dat22@gmail.com
-
 
 ### 野菜男子
 
@@ -106,3 +102,7 @@
 - 開発人数：一人
 - デジタルアーツ東京夏課題　提出作品
 - 初の自分で考えたゲーム製作
+
+## 連絡先
+- Twitter [@ryotakahasi_gp](https://twitter.com/ryotakahasi_gp)
+- gmail ryotakahasi.dat22@gmail.com
