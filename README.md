@@ -29,19 +29,51 @@
   - いけませんお嬢様を製作中
 ## 作品リスト
 
-### ピンポン2022
-[<img src="gazou/s3.png" alt="ピンポン2022" style="height: 360px">](https://github.com/ryotakahasi-dat22/pinnponn)
+### 探偵はウイルス
+<img src="gazou/tannteibetuba-.png" alt="探偵はウイルス" style="height: 360px">
 
-[コードと詳しい情報はこちらをクリック](https://github.com/ryotakahasi-dat22/pinnponn)
+うまく感染して事件を解決しよう！
 
-ボールを跳ね返して相手に勝とう！
+- 開発環境：tyranoscrip
+- 開発時期：2023/4/13～
+- 開発期間：一ヶ月～（開発途中）
+- 開発人数：三人
+- 担　　当：ストーリー、プログラム、一部画面イラスト
+- デジタルアーツ東京 卒業制作
 
-- 開発環境：Windows10 + Visual Studio 2022 + Visual Studio 2019
-- 開発時期：2022/8/1-2022/8/10
-- 開発期間：十日
+
+### いけません！お嬢様！
+<img src="gazou/ikeozi.png" alt="いけません！お嬢様！" style="height: 360px">
+
+お嬢様を学校まで無事に届けよう！
+
+- 開発環境：Unity
+- 開発時期：2023/3/23～
+- 開発期間：二ヶ月～（開発途中）
 - 開発人数：一人
-- デジタルアーツ東京夏課題　提出作品
-- 初の自分で考えたゲーム製作
+- ゲームクリエイター甲子園２０２３ 参加作品
+
+## 連絡先
+- Twitter [@ryotakahasi_gp](https://twitter.com/ryotakahasi_gp)
+- gmail ryotakahasi.dat22@gmail.com
+
+
+### 野菜男子
+
+[<img src="gazou/yasai.png" alt="野菜男子" style="height: 360px">](https://novelgame.jp/games/show/7662)
+
+[野菜男子をプレイする方はこちらをクリック](https://novelgame.jp/games/show/7662)
+
+マウスで自分の運命を決めよう！
+
+相手の気持ちを考え適切な選択肢を選んでいこう。
+
+- 開発環境：tyranoscrip
+- 開発時期：2022/10/27-2022/11/10
+- 開発期間：２週間
+- 開発人数：一人
+- デジタルアーツ東京DATフェスタ2022　提出作品
+
 
 ### シグマとラムダ
 [<img src="gazou/ramu.png" alt="シグマとラムダ" style="height: 360px">](https://unityroom.com/games/ramsigu)
@@ -60,45 +92,17 @@
 - 開発人数：一人
 - 一週間ゲームジャム「Re」参加作品
 
-### 野菜男子
 
-[<img src="gazou/yasai.png" alt="野菜男子" style="height: 360px">](https://novelgame.jp/games/show/7662)
+### ピンポン2022
+[<img src="gazou/s3.png" alt="ピンポン2022" style="height: 360px">](https://github.com/ryotakahasi-dat22/pinnponn)
 
-[野菜男子をプレイする方はこちらをクリック](https://novelgame.jp/games/show/7662)
+[コードと詳しい情報はこちらをクリック](https://github.com/ryotakahasi-dat22/pinnponn)
 
-マウスで自分の運命を決めよう！
+ボールを跳ね返して相手に勝とう！
 
-相手の気持ちを考え適切な選択肢を選んでいこう。
-
-- 開発環境：tyranoscrip
-- 開発時期：2022/10/27-2022/11/10
-- 開発期間：２週間
+- 開発環境：Windows10 + Visual Studio 2022 + Visual Studio 2019
+- 開発時期：2022/8/1-2022/8/10
+- 開発期間：十日
 - 開発人数：一人
-- デジタルアーツ東京DATフェスタ2022　提出作品
-
-### 探偵はウイルス
-<img src="gazou/tannteibetuba-.png" alt="探偵はウイルス" style="height: 360px">
-
-うまく感染して事件を解決しよう！
-
-- 開発環境：tyranoscrip
-- 開発時期：2023/4/13～
-- 開発期間：一ヶ月～（開発途中）
-- 開発人数：三人
-- 担　　当：ストーリー、プログラム、一部画面イラスト
-- デジタルアーツ東京 卒業制作
-
-### いけません！お嬢様！
-<img src="gazou/ikeozi.png" alt="いけません！お嬢様！" style="height: 360px">
-
-お嬢様を学校まで無事に届けよう！
-
-- 開発環境：Unity
-- 開発時期：2023/3/23～
-- 開発期間：二ヶ月～（開発途中）
-- 開発人数：一人
-- ゲームクリエイター甲子園２０２３ 参加作品
-
-## 連絡先
-- Twitter [@ryotakahasi_gp](https://twitter.com/ryotakahasi_gp)
-- gmail ryotakahasi.dat22@gmail.com
+- デジタルアーツ東京夏課題　提出作品
+- 初の自分で考えたゲーム製作
