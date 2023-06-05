@@ -3,7 +3,7 @@
 ## 目次
 - [自己紹介](https://github.com/ryotakahasi-dat22/portfolio/blob/main/README.md#%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B)
 - 資格https://github.com/ryotakahasi-dat22/portfolio/blob/main/README.md#%E8%B3%87%E6%A0%BC
-- スキル
+- スキルhttps://github.com/ryotakahasi-dat22/portfolio/blob/main/README.md#%E3%82%B9%E3%82%AD%E3%83%AB
 - 取り組んているテーマ
 - 作品リスト
  - 探偵はウイルス
