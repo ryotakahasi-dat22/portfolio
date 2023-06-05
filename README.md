@@ -1,15 +1,15 @@
 ## 目次
 - [自己紹介](https://github.com/ryotakahasi-dat22/portfolio#%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B)
-- [資格](https://github.com/ryotakahasi-dat22/portfolio/blob/main/README.md#%E8%B3%87%E6%A0%BC)
-- [スキル](https://github.com/ryotakahasi-dat22/portfolio/blob/main/README.md#%E3%82%B9%E3%82%AD%E3%83%AB)
-- [取り組んているテーマ](https://github.com/ryotakahasi-dat22/portfolio/blob/main/README.md#%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%83%86%E3%83%BC%E3%83%9E)
-- [作品リスト](https://github.com/ryotakahasi-dat22/portfolio/blob/main/README.md#%E4%BD%9C%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88)
+- [資格](https://github.com/ryotakahasi-dat22/portfolio#%E8%B3%87%E6%A0%BC)
+- [スキル](https://github.com/ryotakahasi-dat22/portfolio#%E3%82%B9%E3%82%AD%E3%83%AB)
+- [取り組んているテーマ](https://github.com/ryotakahasi-dat22/portfolio#%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%83%86%E3%83%BC%E3%83%9E)
+- [作品リスト](https://github.com/ryotakahasi-dat22/portfolio#%E4%BD%9C%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88)
   - 探偵はウイルス
   - いけません！お嬢様！
   - 野菜男子
   - シグマとラムダ
   - ピンポン2022
-- [連絡先](https://github.com/ryotakahasi-dat22/portfolio/blob/main/README.md#%E9%80%A3%E7%B5%A1%E5%85%88)
+- [連絡先](https://github.com/ryotakahasi-dat22/portfolio#%E9%80%A3%E7%B5%A1%E5%85%88)
 
 ## 自己紹介
 - 高橋　涼
