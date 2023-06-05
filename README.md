@@ -1,7 +1,7 @@
 # portfolio
 
 ## 目次
-- (自己紹介)[https://github.com/ryotakahasi-dat22/portfolio/blob/main/README.md#%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B]
+- [自己紹介](https://github.com/ryotakahasi-dat22/portfolio/blob/main/README.md#%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B)
 - 資格
 - スキル
 - 取り組んているテーマ
