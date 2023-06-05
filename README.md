@@ -1,7 +1,8 @@
-https://github.com/ryotakahasi-dat22/portfolio#portfolio
-
 # portfolio
 
+## 目次
+
+## 自己紹介
 - 高橋　涼
 - 連絡先 Twitter [@ryotakahasi_gp](https://twitter.com/ryotakahasi_gp) / gmail ryotakahasi.dat22@gmail.com
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2024年卒業予定
