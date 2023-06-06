@@ -100,7 +100,7 @@
 
 [シグマとラムダをプレイする方はこちらをクリック](https://unityroom.com/games/ramsigu)
 
-[コードはこちらをクリック](https://github.com/ryotakahasi-dat22)
+[コードはこちらをクリック](https://github.com/ryotakahasi-dat22/u1wgj2212)
 
 遠い宇宙を目指し、ハイスコアを更新して競い合おう！
 
