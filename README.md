@@ -45,8 +45,9 @@
  
 ### 探偵はウイルス
 
+[<img src="gazou/tannteibetuba-.png" alt="探偵はウイルス" style="height: 360px">](https://novelgame.jp/games/show/8720)
 
-<img src="gazou/tannteibetuba-.png" alt="探偵はウイルス" style="height: 360px">
+[探偵はウイルスをプレイする方はこちらをクリック](https://novelgame.jp/games/show/8720)
 
 うまく感染して事件を解決しよう！
 
